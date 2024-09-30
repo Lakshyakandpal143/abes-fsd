@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+table{
+    border: 10px double black;
+    background-color: rgb(217, 148, 254);
+    width: 100%;
+}
+#heading{
+    text-align: center;
+    font-size:60px;
+    padding-bottom: 10px;
+    background-color: blueviolet;
+}
+tr{
+    text-align: center;
+}
+td{
+    padding-top: 20px;
+    border: 2px solid black;
+    padding-bottom: 20px;
+}
